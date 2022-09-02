@@ -66,8 +66,7 @@ public class Assignment1
 								product1, product2, product3, product4);
 			System.out.printf("%n%-16.2f%-16.2f%-16.2f%-16.2f", +
 								product5, product6, product7, product8);
-			System.out.printf("%n%-16.2f%-16.2f%-16.2f%-16.2f", +
-								product9, product10, product11, product12);
+			
 
 		}
 	}
